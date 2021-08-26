@@ -1,4 +1,4 @@
-# Private-Voting-Bot
+# Greenway Stack Voting
 A discord bot that allows users to vote privately
 
 # Features
